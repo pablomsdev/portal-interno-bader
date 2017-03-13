@@ -1,0 +1,459 @@
+# Translation of Plugins - Custom Login - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Custom Login - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-22 17:13:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Custom Login - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://austin.passy.co"
+msgstr "http://austin.passy.co"
+
+#. Author of the plugin/theme
+msgid "Austin Passy"
+msgstr "奧斯汀‧帕希"
+
+#. Description of the plugin/theme
+msgid "A simple way to customize your WordPress <code>wp-login.php</code> screen! A <a href=\"https://frosty.media/\">Frosty Media</a> plugin."
+msgstr "有個簡單的方式可以自訂您的 WordPress <code>wp-login.php</code> 畫面！<a href=\"https://frosty.media/\">Frosty Media</a> 外掛。"
+
+#. Plugin URI of the plugin/theme
+msgid "https://frosty.media/plugins/custom-login"
+msgstr "https://frosty.media/plugins/custom-login"
+
+#: includes/default-settings.php:503
+msgid "Remove the \"Lost Password?\" text. This does <strong>not</strong> disable the lost password function."
+msgstr "移除「密碼遺失？」文字。這樣 <strong>不會</strong> 停用密碼遺失的功能。"
+
+#: includes/default-settings.php:502
+msgid "Remove lost password text"
+msgstr "移除遺失密碼文字"
+
+#: includes/default-settings.php:497
+msgid "Remove WordPress' login CSS. Warning: You'll have to add aditional syles not set by this plugin."
+msgstr "移除 WordPress 的 CSS 登入。警告：您需要在該外掛外新增額外樣式的設定。"
+
+#: includes/default-settings.php:496
+msgid "Remove login CSS"
+msgstr "移除登入 CSS"
+
+#: includes/default-settings.php:491
+msgid "Disable the login forms animated \"shake\" on error."
+msgstr "停用登入表單發生錯誤時的「震動」動畫。"
+
+#: includes/default-settings.php:490
+msgid "Disable Login shake"
+msgstr "停用登入搖動"
+
+#: includes/default-settings.php:482
+msgid "Login functions"
+msgstr "登入功能"
+
+#: includes/default-settings.php:475
+msgid "Show a dashboard widget, like WordPress news for Frosty Media."
+msgstr "顯示像在 WordPress 新聞相同的 Frosty Media 的控制台小工具。"
+
+#: includes/default-settings.php:474
+msgid "Dashboard widget"
+msgstr "控制台小工具"
+
+#: includes/default-settings.php:469
+msgid "Allow admin notices everywhere in WordPress."
+msgstr "允許透過 Wordpress 登入通知管理員。"
+
+#: includes/default-settings.php:468
+msgid "Admin notices"
+msgstr "管理通知"
+
+#: includes/default-settings.php:460
+msgid "Notices"
+msgstr "通知"
+
+#: includes/default-settings.php:453
+msgid "Allow Frosty Media to anonymously track how this plugin is used (and help us make the plugin better). Opt-in and receive a 20% discount code for all Custom Login extensions. Get your coupon code <a href=\"http://frosty.media/?p=21442\">here</a>."
+msgstr "允許 Frosty Media 使用匿名追蹤這個外掛如何使用（並協助我們改進）。加入並接收我們任意 Frosty Media 商店的採購的 20% 折扣碼。在<a href=\"http://frosty.media/?p=21442\">這裡</a>獲得您的折扣碼。"
+
+#: includes/default-settings.php:452
+msgid "Usage tracking"
+msgstr "追蹤使用率"
+
+#: includes/default-settings.php:444
+msgid "Tracking Settings"
+msgstr "追蹤設定"
+
+#: includes/default-settings.php:434
+msgid "Set the minimum user capability to manage these settings. The default capability is <code>%s</code>"
+msgstr "在管理設定中設定最小使用者的功能。預設功能為<code>%s</code>"
+
+#: includes/default-settings.php:433
+msgid "Capability"
+msgstr "功能"
+
+#: includes/default-settings.php:427
+msgid "Allow Custom Login to hook into WordPress."
+msgstr "允許自訂登入至 WordPress 的勾點。"
+
+#: includes/default-settings.php:426
+msgid "Activate"
+msgstr "啟用"
+
+#: includes/default-settings.php:413
+msgid "** Your custom jQuery will output here **."
+msgstr "**您的自訂 jQuery 將會在這裡輸出 **。"
+
+#: includes/default-settings.php:404
+msgid "Custom jQuery"
+msgstr "自訂 jQuery"
+
+#: includes/default-settings.php:387
+msgid "Custom HTML"
+msgstr "自訂 HTML"
+
+#: includes/default-settings.php:379
+msgid "Include <a href=\"http://daneden.github.io/animate.css/\">animate.css</a>?"
+msgstr "包含 <a href=\"http://daneden.github.io/animate.css/\">animate.css</a> ？"
+
+#: includes/default-settings.php:378
+msgid "Animate"
+msgstr "動畫"
+
+#: includes/default-settings.php:369
+msgid "Allowed variables:"
+msgstr "允許變數："
+
+#: includes/default-settings.php:360
+msgid "Custom CSS"
+msgstr "自訂 CSS"
+
+#: includes/default-settings.php:351
+msgid "Nav text-shadow hover"
+msgstr "瀏覽文字陰影變化"
+
+#: includes/default-settings.php:344
+msgid "Nav color hover"
+msgstr "瀏覽色彩變化"
+
+#: includes/default-settings.php:337
+msgid "Nav text-shadow color"
+msgstr "瀏覽文字陰影色彩"
+
+#: includes/default-settings.php:330
+msgid "Nav color"
+msgstr "瀏覽色彩"
+
+#: includes/default-settings.php:322
+msgid "Below Form anchor"
+msgstr "表格下方錨點"
+
+#: includes/default-settings.php:313
+msgid "Label color"
+msgstr "標籤色彩"
+
+#: includes/default-settings.php:305
+msgid "Miscellaneous"
+msgstr "其他"
+
+#: includes/default-settings.php:296
+msgid "Box shadow color"
+msgstr "Box shadow color"
+
+#: includes/default-settings.php:289
+msgid "Use <a href=\"%s\" target=\"_blank\">box shadow</a> syntax w/ out color. <code>inset h-shadow v-shadow blur spread</code>"
+msgstr "使用 <a href=\"%s\" target=\"_blank\">方塊陰影</a> 語法時排除色彩。 <code>插入 h-shadow v-shadow 擴展模糊</code>"
+
+#: includes/default-settings.php:288
+msgid "Box shadow"
+msgstr "方塊陰影"
+
+#: includes/default-settings.php:281
+msgid "Border color"
+msgstr "框線色彩"
+
+#: includes/default-settings.php:272
+msgid "Border size"
+msgstr "框線大小"
+
+#: includes/default-settings.php:263
+msgid "Border radius"
+msgstr "框線半徑"
+
+#: includes/default-settings.php:214
+msgid "Add a background image to the login form."
+msgstr "新增背景影像至登入表單。"
+
+#: includes/default-settings.php:213
+msgid "Background URL"
+msgstr "背景連結"
+
+#: includes/default-settings.php:198
+msgid "Change the default width of the login form."
+msgstr "變更預設登入表單的寬度。"
+
+#: includes/default-settings.php:197
+msgid "Width"
+msgstr "寬度"
+
+#: includes/default-settings.php:192
+msgid "If checked and the login form width (set below) is not empty, a CSS rule of <code>width</code> will be applied on the logo wrapper element <code>.login h1</code>. This settings applies to the Logo image (when background size is used)."
+msgstr "如果確認與登入表單的寬度（下方設定）不是空白，CSS <code>寬度</code> 的規則將會套用在標誌包裝函式元素<code>.login h1</code>中。（當背景尺寸已設定時）該設定套用至標誌影像。"
+
+#: includes/default-settings.php:191
+msgid "Force max-width"
+msgstr "強制最大寬度"
+
+#: includes/default-settings.php:183
+msgid "Login Form"
+msgstr "登入表單"
+
+#: includes/default-settings.php:131
+msgid "Image height"
+msgstr "影像高度"
+
+#: includes/default-settings.php:123 includes/default-settings.php:132
+msgid "Enter your desired image height (All not integers will be removed)."
+msgstr "輸入您的所需的影像高度（所有非整數將會被移除）。"
+
+#: includes/default-settings.php:122
+msgid "Image width"
+msgstr "影像寬度"
+
+#: includes/default-settings.php:114
+msgid "I would suggest a max width of 320px, the default form width. You can widen the width (setting below)."
+msgstr "我想要建議最大預設表單寬度至320像素。您可以增加寬度（下方設定）。"
+
+#: includes/default-settings.php:113
+msgid "Image"
+msgstr "影像"
+
+#: includes/default-settings.php:108
+msgid "This setting hides the h1 element."
+msgstr "這個設定將會隱藏 h1 元素。"
+
+#: includes/default-settings.php:107
+msgid "Hide the WP logo"
+msgstr "隱藏 WP 標誌"
+
+#: includes/default-settings.php:99
+msgid "Logo"
+msgstr "標誌"
+
+#: includes/default-settings.php:85 includes/default-settings.php:169
+#: includes/default-settings.php:251
+msgid "Background size"
+msgstr "背景大小"
+
+#: includes/default-settings.php:73 includes/default-settings.php:157
+#: includes/default-settings.php:239
+msgid "Background repeat"
+msgstr "背景重複"
+
+#: includes/default-settings.php:57 includes/default-settings.php:141
+#: includes/default-settings.php:223
+msgid "html background position"
+msgstr "html 背景位置"
+
+#: includes/default-settings.php:56 includes/default-settings.php:140
+#: includes/default-settings.php:222
+msgid "Background position"
+msgstr "背景位置"
+
+#: includes/default-settings.php:47
+msgid "Background image"
+msgstr "背景影像"
+
+#: includes/default-settings.php:40 includes/default-settings.php:206
+msgid "Background color"
+msgstr "背景色彩"
+
+#: includes/default-settings.php:32
+msgid "<abbr title=\"Hyper Text Markup Language\">HTML</abbr>"
+msgstr "<abbr title=\"Hyper Text Markup Language\">HTML</abbr>"
+
+#: includes/default-settings.php:19
+msgid "General Settings"
+msgstr "一般設定"
+
+#: includes/default-settings.php:14
+msgid "Design Settings"
+msgstr "設計設定"
+
+#: includes/default-settings.php:8
+msgid "Unchecked equals \"off\" (do not allow)."
+msgstr "不檢查等式「關閉」（不允許）。"
+
+#: includes/default-settings.php:7
+msgid "Checked equals \"on\" (allow)."
+msgstr "檢查等式「啟動」（允許）。"
+
+#: includes/class-cl-settings-upgrades.php:135
+msgid "The upgrade process has started, please be patient. This could take several minutes. You will be automatically redirected when the upgrade is finished."
+msgstr "升級程序已開始，請稍後。可能需要數分鐘時間。當升級完成時，您將會被自動重新導向。"
+
+#: includes/class-cl-settings-upgrades.php:132
+msgid "Custom Login - Upgrades"
+msgstr "自訂登入－升級"
+
+#: includes/class-cl-settings-upgrades.php:114
+#: includes/class-cl-settings-upgrades.php:115
+msgid "Custom Login Upgrades"
+msgstr "自訂登入升級"
+
+#: includes/class-cl-settings-upgrades.php:97
+msgid "Custom Login needs to upgrade the database, please click <a href=\"%s\">here</a> to start the upgrade."
+msgstr "自訂登入需要升級資料庫，請點選<a href=\"%s\">這裡</a>開始升級。"
+
+#: includes/class-cl-settings-upgrades.php:88
+msgid "Custom Login needs to upgrade the settings database, please click <a href=\"%s\">here</a> to start the upgrade."
+msgstr "自訂登入需要升級設定的資料庫，請點選<a href=\"%s\">這裡</a>開始升級。"
+
+#: includes/class-cl-settings-upgrades.php:76
+msgid "Custom Login needs to upgrade the settings, please click <a href=\"%s\">here</a> to start the upgrade."
+msgstr "自訂登入需要升級設定，請點選<a href=\"%s\">這裡</a>開始升級。"
+
+#: includes/class-cl-settings-api.php:902
+msgid "Custom Login has detected old settings. If you wish to use them please run %sthis%s script before making any changes below."
+msgstr "自訂登入以偵測到較舊的設定。如果您想要繼續使用原設定，請在做任何變更前執行 %sthis%s 指令碼。"
+
+#: includes/class-cl-settings-api.php:875
+msgid "Custom Login Extensions %s"
+msgstr "自訂登入擴充 %s"
+
+#: includes/class-cl-settings-api.php:839
+msgid "<small>If you have suggestions for a new add-on, feel free to open a support request on <a href=\"%s\" target=\"_blank\">GitHub</a>. Want regular updates? Follow me on <a href=\"%s\" target=\"_blank\">Twitter</a> or visit my <a href=\"%s\" target=\"_blank\">blog</a>.</small>"
+msgstr "<small>如果您新對附加功能有任何意見，歡迎在<a href=\"%s\" target=\"_blank\">GitHub</a>開啟支援需求。想獲得規律的更新？請透過<a href=\"%s\" target=\"_blank\">推特</a>跟隨我或瀏覽我的<a href=\"%s\" target=\"_blank\">部落格</a>。</small>"
+
+#: includes/class-cl-settings-api.php:836
+msgid "Twitter"
+msgstr "推特"
+
+#: includes/class-cl-settings-api.php:835
+msgctxt "the author of this plugin"
+msgid "Author"
+msgstr "作者"
+
+#: includes/class-cl-settings-api.php:832
+msgctxt "rate; as in rate this plugin"
+msgid "Rate"
+msgstr "評分"
+
+#: includes/class-cl-settings-api.php:745
+msgid "Save %s Changes"
+msgstr "儲存%s變更"
+
+#: includes/class-cl-settings-api.php:711
+msgid "Save %s"
+msgstr "儲存%s"
+
+#: includes/class-cl-settings-api.php:660
+msgid "Save Changes"
+msgstr "儲存更改"
+
+#: includes/class-cl-settings-api.php:643
+msgid "A %s plugin"
+msgstr " %s 外掛"
+
+#: includes/class-cl-settings-api.php:330
+msgid "<label for=\"%1$s[%2$s]\">Opacity</label>"
+msgstr "<label for=\"%1$s[%2$s]\">不透明度</label>"
+
+#: includes/class-cl-extensions.php:212
+msgid "Available Custom Login Extensions"
+msgstr "有可以用的自訂登入擴充"
+
+#: includes/class-cl-extensions.php:44
+msgid "Custom Login Extentions"
+msgstr "自訂登入擴充"
+
+#: includes/class-cl-extensions.php:43
+msgid "Custom Login Extensions"
+msgstr "自訂登入擴充"
+
+#: includes/class-cl-extensions.php:37
+msgid "Extensions Installer"
+msgstr "擴充安裝程式"
+
+#: includes/class-cl-extensions.php:35
+msgid "Install Custom Login extensions on <a href=\"%s\">this page</a> with a valid license key. <small>Purchase your license key by clicking the appropriate link below</small>."
+msgstr "在使用有效的金鑰<a href=\"%s\">這頁</a>安裝自訂登入擴充。 <small>在下方連結的適當處購買您的金鑰</small>。"
+
+#: includes/class-cl-cron.php:44
+msgid "Once Weekly"
+msgstr "每周一次"
+
+#: includes/admin/tracking.php:277
+msgid "Do not allow"
+msgstr "不允許"
+
+#: includes/admin/tracking.php:276
+msgid "Allow"
+msgstr "允許"
+
+#: includes/admin/tracking.php:274
+msgid "Allow Custom Login to anonymously track how this plugin is used and help us make the plugin better?<br>Opt-in and receive a 20% discount code for any plugin on our <a href=\"https://frosty.media/plugins\" target=\"_blank\">site</a>. No sensitive data is tracked."
+msgstr "允許自訂登入使用匿名追蹤這個外掛如何使用並協助我們改進？<br> 加入並接收我們任意外掛的 20% 折扣碼 <a href=\"https://frosty.media/plugins\" target=\"_blank\">網站</a>。不分追蹤隱藏敏感資料。"
+
+#: includes/admin/plugins.php:46
+msgid "Add Ons"
+msgstr "附加元件"
+
+#: includes/admin/plugins.php:45
+msgid "Extension Installer"
+msgstr "擴充安裝程式"
+
+#: includes/admin/plugins.php:23
+msgid "Settings"
+msgstr "設定"
+
+#: includes/admin/import-export.php:196
+msgid "Custom Login settings successfully imported"
+msgstr "自訂登入設定已完成匯入"
+
+#: includes/admin/import-export.php:159
+msgid "Import/Export Settings"
+msgstr "匯入/匯出設定"
+
+#: includes/admin/import-export.php:127
+msgid "Import/Export Custom Login Settings"
+msgstr "匯入/匯出自訂登入設定"
+
+#: includes/admin/import-export.php:81
+msgid "This textarea is always pre-filled with the current settings. Copy these settings for import at a later time, or <a href=\"%s\">download</a> them."
+msgstr "這個文字區域永遠預先填入至目前的設定。稍後匯入或者<a href=\"%s\">下載</a>它們前請先複製。"
+
+#: includes/admin/import-export.php:80
+msgid "Export"
+msgstr "匯出"
+
+#: includes/admin/import-export.php:72
+msgid "Import"
+msgstr "匯入"
+
+#: includes/admin/dashboard.php:148 includes/admin/dashboard.php:174
+#: includes/class-cl-settings-api.php:864
+msgid "Error fetching feed"
+msgstr "摘要取得錯誤"
+
+#: includes/admin/dashboard.php:84
+msgid "Frosty Media"
+msgstr "Frosty Media"
+
+#: custom-login.php:321
+msgid "Dismiss"
+msgstr "隱藏"
+
+#. #-#-#-#-#  tmp-custom-login.pot (Custom Login 3.2.5)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: custom-login.php:202 includes/class-cl-settings-api.php:640
+#: includes/class-cl-settings-api.php:845
+msgid "Custom Login"
+msgstr "自訂登入"
+
+#: custom-login.php:201
+msgid "Custom Login Settings"
+msgstr "自訂登入設定"

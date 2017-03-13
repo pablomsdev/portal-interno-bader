@@ -1,0 +1,10 @@
+[2014-08-07 17:31:23] 921 files scanned.
+[2014-08-07 17:31:23] Clear out old temporary files
+[2014-08-07 17:31:23] Send request to generate temporary file stacks
+[2014-08-07 17:31:26] Trying to generate a stack of 421 files
+[2014-08-07 17:31:28] Temporary stack /tmp/BUP8cqEXn successfully generated
+[2014-08-07 17:31:29] Trying to generate a stack of 500 files
+[2014-08-07 17:31:33] Temporary stack /tmp/BUPWOqTJx successfully generated
+[2014-08-07 17:31:35] Create a backup of the file system: /var/www/vhosts/bader.h2116268.stratoserver.net/httpdocs/wordpress/wp-content/upready/backup_2014_08_07-17_31_35_id1.zip
+[2014-08-07 17:31:35] Create a backup of the database: /var/www/vhosts/bader.h2116268.stratoserver.net/httpdocs/wordpress/wp-content/upready/backup_2014_08_07-17_31_35_id1.sql
+[2014-08-07 17:31:36] Backup complete

@@ -1,0 +1,682 @@
+# Translation of Plugins - User Access Manager - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - User Access Manager - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-11 01:46:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - User Access Manager - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.gm-alex.de/"
+msgstr "http://www.gm-alex.de/"
+
+#. Author of the plugin/theme
+msgid "Alexander Schneider"
+msgstr "Alexander Schneider"
+
+#. Description of the plugin/theme
+msgid "Manage the access to your posts, pages, categories and files."
+msgstr "投稿、ページ、カテゴリ、ファイルへのアクセス権を管理する"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.gm-alex.de/projects/wordpress/plugins/user-access-manager/"
+msgstr "http://www.gm-alex.de/projects/wordpress/plugins/user-access-manager/"
+
+#. Plugin Name of the plugin/theme
+msgid "User Access Manager"
+msgstr "User Access Manager"
+
+#: tpl/loginBar.php:49
+msgid "Lost your password?"
+msgstr "パスワードをお忘れですか？"
+
+#: tpl/loginBar.php:49
+msgid "Password Lost and Found"
+msgstr "パスワードをお忘れですか ?"
+
+#: tpl/loginBar.php:46
+msgid "Register"
+msgstr "登録"
+
+#: tpl/loginBar.php:39
+msgid "Remember me"
+msgstr "ログイン状態を保存する"
+
+#: tpl/loginBar.php:36
+msgid "Password:"
+msgstr "パスワード:"
+
+#: tpl/loginBar.php:34
+msgid "Username:"
+msgstr "ユーザー名: "
+
+#: tpl/loginBar.php:23 tpl/loginBar.php:40
+msgid "Login"
+msgstr "ログイン"
+
+#: includes/language.define.php:213
+msgid "Error: File not found."
+msgstr "エラー: ファイルが見つかりません。"
+
+#: includes/language.define.php:212
+msgid "Opening file info database failed."
+msgstr "ファイル情報のデータベースを開けませんでした"
+
+#: includes/language.define.php:208
+msgid "Assigned groups"
+msgstr "ユーザーに割り当てられたグループ"
+
+#: includes/language.define.php:207
+msgid "Group membership given by role"
+msgstr "権限グループに基づいて適用されたグループ"
+
+#: includes/language.define.php:206
+msgid "Group membership given by categories"
+msgstr "カテゴリに基づいて適用されたグループ"
+
+#: includes/language.define.php:205
+msgid "Group membership given by pages"
+msgstr "ページに基づいて適用されたグループ"
+
+#: includes/language.define.php:204
+msgid "Group membership given by posts"
+msgstr "投稿に基づいて適用されたグループ"
+
+#: includes/language.define.php:203
+msgid "Group info"
+msgstr "グループ情報"
+
+#: includes/language.define.php:202
+msgid "Info"
+msgstr "情報"
+
+#: includes/language.define.php:199
+msgid "Sorry, your nonce did not verify."
+msgstr "申し訳ありませんが、nonce は確認できませんでした。"
+
+#: includes/language.define.php:198
+msgid "Set up user groups"
+msgstr "ユーザーグループのセットアップ"
+
+#: includes/language.define.php:197
+msgid "User Groups"
+msgstr "ユーザーグループ"
+
+#: includes/language.define.php:196
+msgid "You have no rights to access this content."
+msgstr "このコンテンツへアクセスする権限がありません。"
+
+#: includes/language.define.php:195
+msgid "No user group available."
+msgstr "ユーザーグループがありません。"
+
+#: includes/language.define.php:194
+msgid "Please create a user group first."
+msgstr "まずユーザーグループを作成してください。"
+
+#: includes/language.define.php:193
+msgid "<strong>Note:</strong> An administrator has always access to all posts/pages."
+msgstr "<strong>備考: </strong>管理者はすべての投稿 / 固定ページにアクセスできます。"
+
+#: includes/language.define.php:192
+msgid "Member of other user groups"
+msgstr "他のユーザーグループのメンバー"
+
+#: includes/language.define.php:191
+msgid "Full access"
+msgstr "フルアクセス"
+
+#: includes/language.define.php:187
+msgid "all beta testers and all others I forgot"
+msgstr "すべてのベータテスターと、その他の皆様"
+
+#: includes/language.define.php:186
+msgid "I would like to thank all the guys which has helped me with this plugin:"
+msgstr "このプラグインを支援してくださったすべての方に感謝します。"
+
+#: includes/language.define.php:185
+msgid "Special thanks go out to my wife for giving me the time to develop this plugin."
+msgstr "開発するための時間をくれた妻に特に感謝します。"
+
+#: includes/language.define.php:184
+msgid "Thanks"
+msgstr "謝辞"
+
+#: includes/language.define.php:181
+msgid "<strong>Place a link to the plugin in your blog/webpage.</strong>"
+msgstr "<strong>あなたのブログ / ウェブサイトにリンクを載せてください。</strong>"
+
+#: includes/language.define.php:180
+msgid "<strong>Donate via paypal</strong>"
+msgstr "<strong>PayPalから寄付する</strong>"
+
+#: includes/language.define.php:179
+msgid "<strong>Make a translation of the plugin.</strong><br/>The give other users more comfort help me to translate it to all languages."
+msgstr "<strong>このプラグインを翻訳する</strong><br/>他のユーザーが快適に利用できるよう、翻訳を手伝ってください。"
+
+#: includes/language.define.php:178
+msgid "<strong>Send me bug reports, bug fixes, code modifications or your ideas.</strong><br/>Help me to improve the plugin."
+msgstr "<strong>バグ、修正報告、コード変更、アイデアを送る</strong><br/>このプラグインをもっと良くするお手伝いをしてください。"
+
+#: includes/language.define.php:177
+msgid "How to support me?"
+msgstr "あなたの支援を必要としています。"
+
+#: includes/language.define.php:174
+msgid "About"
+msgstr "紹介"
+
+#: includes/language.define.php:170
+msgid "Update network wide"
+msgstr "マルチサイト全体を更新"
+
+#: includes/language.define.php:169
+msgid "Update current blog"
+msgstr "現在のサイトのみ更新"
+
+#: includes/language.define.php:168
+msgid "User Access Manager database was updated successfully"
+msgstr "User Access Manager のデータベースが更新されました"
+
+#: includes/language.define.php:167
+msgid "User Access Manager was reset successfully"
+msgstr "User Access Manager がリセットされました"
+
+#: includes/language.define.php:166
+msgid "update"
+msgstr "更新"
+
+#: includes/language.define.php:165
+msgid "Updates the database of the User Access Manager. Please backup your database before you perform the update."
+msgstr "User Access Manager のデーターベースを更新します。更新を実行する前にデータベースのバックアップを取ってください。"
+
+#: includes/language.define.php:164
+msgid "Update User Access Manager database"
+msgstr "User Access Manager のデータベースを更新"
+
+#: includes/language.define.php:163
+msgid "reset"
+msgstr "リセット"
+
+#: includes/language.define.php:162
+msgid "Warning: The reset of the User Access Manager can not be undone. All settings and user groups will permanently lost."
+msgstr "警告: User Access Manager のリセットは元に戻せません。すべての設定やユーザーグループの情報は失われます。"
+
+#: includes/language.define.php:161
+msgid "Reset User Access Manager"
+msgstr "User Access Manager のリセット"
+
+#: includes/language.define.php:160
+msgid "Setup"
+msgstr "セットアップ"
+
+#: includes/language.define.php:155
+msgid "User group edit successfully."
+msgstr "ユーザーグループを更新しました"
+
+#: includes/language.define.php:154
+msgid "none"
+msgstr "なし"
+
+#: includes/language.define.php:153
+msgid "Group(s) was deleted successfully."
+msgstr "ユーザーグループを削除しました"
+
+#: includes/language.define.php:152
+msgid "Group name can not be empty."
+msgstr "ユーザーグループ名を入力してください"
+
+#: includes/language.define.php:151
+msgid "Group was added successfully."
+msgstr "ユーザーグループを追加しました"
+
+#: includes/language.define.php:150
+msgid "The write access."
+msgstr "書き込み権限"
+
+#: includes/language.define.php:148
+msgid "The read access."
+msgstr "閲覧権限"
+
+#: includes/language.define.php:146
+msgid "Type in the IP ranges of users which are join these groups by their IP address without login. Set ranges like \"BEGIN\"-\"END\", separate ranges by using \";\", single IPs are also allowed. Example: 192.168.0.1-192.168.0.10;192.168.0.20-192.168.0.30"
+msgstr "IP 範囲に設定された IP アドレスのユーザーは、ログインしなくてもこのユーザーグループに所属することになります。\"IP アドレス\"-\"IP アドレス\" のように範囲で指定し、それぞれを \";\" で区切ります。単独の IP アドレスでも指定できます。例: 192.168.0.1-192.168.0.10;192.168.0.20-192.168.0.30"
+
+#: includes/language.define.php:145 includes/language.define.php:156
+msgid "IP range"
+msgstr "IP 範囲"
+
+#: includes/language.define.php:144
+msgid "The description of the group."
+msgstr "グループの説明"
+
+#: includes/language.define.php:143
+msgid "User group description"
+msgstr "ユーザーグループの説明"
+
+#: includes/language.define.php:142
+msgid "The name is used to identify the access user group."
+msgstr "アクセスできるユーザーグループは、この名前で表示されます。"
+
+#: includes/language.define.php:141
+msgid "User group name"
+msgstr "ユーザーグループ名"
+
+#: includes/language.define.php:140
+msgid "Edit user group"
+msgstr "ユーザーグループの編集"
+
+#: includes/language.define.php:139
+msgid "Add user group"
+msgstr "新しいユーザーグループの追加"
+
+#: includes/language.define.php:138
+msgid "Add"
+msgstr "追加"
+
+#: includes/language.define.php:137
+msgid "Update group"
+msgstr "グループの更新"
+
+#: includes/language.define.php:136
+msgid "Delete"
+msgstr "削除"
+
+#: includes/language.define.php:135 includes/language.define.php:149
+msgid "Write access"
+msgstr "書き込み権限"
+
+#: includes/language.define.php:134 includes/language.define.php:147
+msgid "Read access"
+msgstr "閲覧権限"
+
+#: includes/language.define.php:133
+msgid "Description"
+msgstr "説明"
+
+#: includes/language.define.php:132
+msgid "Name"
+msgstr "名称"
+
+#: includes/language.define.php:131
+msgid "Role affiliation"
+msgstr "権限グループとの関連付け"
+
+#: includes/language.define.php:130
+msgid "Manage user user groups"
+msgstr "ユーザーグループの管理"
+
+#: includes/language.define.php:126
+msgid "Settings updated."
+msgstr "設定を更新しました。"
+
+#: includes/language.define.php:125
+msgid "Update settings"
+msgstr "設定の更新"
+
+#: includes/language.define.php:122
+msgid "Selecting \"Yes\" will show the defined text at \"%s\" behind the post/page to an logged in admin to show him which posts/pages are locked if he visits his blog."
+msgstr "\"はい\" にすると、管理者に対してロックされた投稿/ページのタイトル末尾に \"%s\" で設定したマークが表示されます。"
+
+#: includes/language.define.php:121
+msgid "Show admin hint at Posts"
+msgstr "ロックマークを表示させる"
+
+#: includes/language.define.php:120
+msgid "The text which will shown behind the post/page."
+msgstr "投稿 / 固定ページのタイトル末尾にこのマークが表示されます。"
+
+#: includes/language.define.php:118
+msgid "Selecting \"Yes\" will lock all child posts/pages of a post/page if a user has no access to the parent page. Note: Setting this option to \"No\" could result in display errors relating to the hierarchy."
+msgstr "\"はい\" にすると、親ページ/投稿にアクセス権のないユーザーに対して、子ページ/投稿へのアクセスもロックします。備考：\"いいえ\" にすることで、階層に関係して表示されるエラーを解決できます。"
+
+#: includes/language.define.php:117
+msgid "Lock recursive"
+msgstr "再帰的なロック"
+
+#: includes/language.define.php:116
+msgid "Custom URL: "
+msgstr "カスタム URL: "
+
+#: includes/language.define.php:115
+msgid "Custom page: "
+msgstr "カスタムページ: "
+
+#: includes/language.define.php:113
+msgid "Setup what happen if a user visit a post/page with no access."
+msgstr "アクセス権のないユーザーが訪れた時にどうするかを選択します。"
+
+#: includes/language.define.php:112
+msgid "Redirect user"
+msgstr "リダイレクトユーザー"
+
+#: includes/language.define.php:111
+msgid "Selecting \"Yes\" will hide empty categories which are containing only empty childes or no childes."
+msgstr "\"はい\" にすると、子カテゴリーがない空のカテゴリー、子カテゴリーがすべて空のカテゴリーを非表示にします。"
+
+#: includes/language.define.php:110
+msgid "Hide empty categories"
+msgstr "空のカテゴリーを隠す"
+
+#: includes/language.define.php:109
+msgid "Selecting \"Yes\" will also protect your feed entries."
+msgstr "\"はい\" にすると、フィードエントリーも保護します。"
+
+#: includes/language.define.php:108
+msgid "Protect Feed"
+msgstr "フィードの保護"
+
+#: includes/language.define.php:107
+msgid "Here you will find all other settings"
+msgstr "その他の設定"
+
+#: includes/language.define.php:106
+msgid "Other settings"
+msgstr "その他"
+
+#: includes/language.define.php:103
+msgid "Subscriber"
+msgstr "購読者"
+
+#: includes/language.define.php:102
+msgid "Contributor"
+msgstr "寄稿者"
+
+#: includes/language.define.php:101
+msgid "Author"
+msgstr "投稿者"
+
+#: includes/language.define.php:100
+msgid "Editor"
+msgstr "編集者"
+
+#: includes/language.define.php:99
+msgid "Administrator"
+msgstr "管理者"
+
+#: includes/language.define.php:98
+msgid "All user with a role equal or higher to this has full access."
+msgstr "この権限グループか、それより上の権限を持つユーザーに対して、フルアクセス権を持たせます。"
+
+#: includes/language.define.php:97
+msgid "Minimum user role with full access"
+msgstr "フルアクセス権限を持つ最低限の権限グループ"
+
+#: includes/language.define.php:96
+msgid "If \"Yes\" is selected author are able to restrict the content by adding it to their groups."
+msgstr "\"はい\"にすると、投稿者は自分のグループに追加することで、コンテンツに制限をかけることができます。"
+
+#: includes/language.define.php:95
+msgid "Authors can add content to their own groups"
+msgstr "投稿者は自分のグループにコンテンツを追加できる"
+
+#: includes/language.define.php:94
+msgid "If \"Yes\" is selected author will always have full access to their own posts or pages."
+msgstr "\"はい\"にすると投稿者は自分の投稿やページにフルアクセス権を持ちます。"
+
+#: includes/language.define.php:93
+msgid "Authors always has access to own posts/pages"
+msgstr "投稿者はいつでも自分の投稿/ページにアクセスできる"
+
+#: includes/language.define.php:92
+msgid "Here you will find the settings for authors"
+msgstr "投稿者に関する設定"
+
+#: includes/language.define.php:91
+msgid "Authors settings"
+msgstr "投稿者"
+
+#: includes/language.define.php:88
+msgid "fopen"
+msgstr "fopen"
+
+#: includes/language.define.php:87
+msgid "Normal"
+msgstr "通常"
+
+#: includes/language.define.php:86
+msgid "Selecting the type for downloading. <strong>Note:</strong> For using fopen you need \"safe_mode = off\"."
+msgstr "ダウンロードの種類を設定します。<strong>備考: </strong>fopen を使用するには \"safe_mode = off\" の設定が必要です。"
+
+#: includes/language.define.php:85
+msgid "Download type"
+msgstr "ダウンロードの種類"
+
+#: includes/language.define.php:84
+msgid "Use the password of the current logged in admin."
+msgstr "今ログインしている管理者のパスワードを利用します。"
+
+#: includes/language.define.php:83
+msgid "Use a random generated pass word."
+msgstr "ランダムなパスワードを作成する"
+
+#: includes/language.define.php:82
+msgid "Set up the password for the .htaccess access. This password is only needed if you need a direct access to your files."
+msgstr ".htaccess のパスワードを設定します。このパスワードはファイルに直接アクセスする必要がある場合に使われます。"
+
+#: includes/language.define.php:81
+msgid ".htaccess password"
+msgstr ".htaccess のパスワード"
+
+#: includes/language.define.php:80
+msgid "Lock all files, type in file types which you will lock if the post/page is locked or define file types which will not be locked. <strong>Note:</strong> If you have no problems use all to get the maximum security."
+msgstr "すべてのファイルをロックするか、投稿/ページがロックされている場合にロックするファイルタイプを入力するか、ロックされないファイルタイプを入力します。<strong>備考: </strong>問題がなければすべてをロックすることで、セキュリティが万全になります。"
+
+#: includes/language.define.php:79
+msgid "Locked file types"
+msgstr "ロックされたファイルタイプ"
+
+#: includes/language.define.php:78
+msgid "File types not to lock: "
+msgstr "ロックしないファイルタイプ"
+
+#: includes/language.define.php:77
+msgid "File types to lock: "
+msgstr "ロックするファイルタイプ: "
+
+#: includes/language.define.php:76
+msgid "If you select \"Yes\" all files will locked by a .htaccess file and only users with access can download files. <br/><strong style=\"color:red;\">Note: If you activate this option the plugin will overwrite a '.htaccess' file at the upload folder, if you use already one to protect your files. Also if you have no permalinks activated your upload dir will protect by a '.htaccess' with a random password and all old media files insert in a previous post/page will not work anymore. You have to update your posts/pages (not necessary if you have permalinks activated).</strong>"
+msgstr "\"はい\" にすると、すべてのファイルが .htaccess によってロックされ、権限のあるユーザーのみダウンロードできます。<br/><strong style=\"color:red;\">備考: このオプションを有効にすると、すでに upload フォルダの .htaccess に施されている別の保護の設定があった場合でも、このプラグインによって書き換えられてしまいます。また、パーマリンクが有効でない場合、upload フォルダは .htaccess のランダムなパスワードで保護され、既存の投稿/ページ中に挿入されている古いメディアファイルは表示されなくなります。パーマリンクが有効でない場合、投稿/ページのアップデートが必要になります。</strong>"
+
+#: includes/language.define.php:75
+msgid "Lock files"
+msgstr "ファイルをロックする"
+
+#: includes/language.define.php:74
+msgid "Set up the behaviour of files"
+msgstr "ファイルに関する設定"
+
+#: includes/language.define.php:73
+msgid "File settings"
+msgstr "ファイル設定"
+
+#: includes/language.define.php:70
+msgid "Selecting \"yes\" allows users to comment on locked pages"
+msgstr "\"はい\" にするとロックされたページにもコメントを投稿できます。"
+
+#: includes/language.define.php:69
+msgid "Allow page comments"
+msgstr "コメントの投稿を許可する"
+
+#: includes/language.define.php:67
+msgid "Hide page comments"
+msgstr "ページのコメントを隠す"
+
+#: includes/language.define.php:66
+msgid "Displayed text as page comment text if user has no access"
+msgstr "アクセス権がないユーザーに、ページのコメントとしてこの文を表示します。"
+
+#: includes/language.define.php:65
+msgid "Page comment text"
+msgstr "ページのコメント文"
+
+#: includes/language.define.php:64
+msgid "Selecting \"Yes\" will hide pages if the user has no access. Pages will also hide in the navigation."
+msgstr "\"はい\" にすると、アクセス権のないユーザーにはページが非表示になり、ナビゲーションからも非表示になります。"
+
+#: includes/language.define.php:63
+msgid "Hide complete pages"
+msgstr "ページを完全に隠す"
+
+#: includes/language.define.php:62
+msgid "Content displayed if user has no access. You can add an login-form by adding the keyword <strong>[LOGIN_FORM]</strong>. This form will shown on single pages, otherwise a link will shown."
+msgstr "アクセス権がないユーザーにはこの文が表示されます。<strong>[LOGIN_FORM]</strong> というタグを挿入することで、ログインフォームを表示させることができます。シングルページではフォームとして表示されますが、それ以外ではリンクが表示されます。"
+
+#: includes/language.define.php:61
+msgid "Page content"
+msgstr "ページの本文"
+
+#: includes/language.define.php:59
+msgid "Hide page title"
+msgstr "ページタイトルを隠す"
+
+#: includes/language.define.php:58
+msgid "Displayed text as page title if user has no access"
+msgstr "アクセス権がないユーザーに、ページのタイトルとしてこの文を表示します。"
+
+#: includes/language.define.php:57
+msgid "Page title"
+msgstr "ページタイトル"
+
+#: includes/language.define.php:56
+msgid "Set up the behaviour of locked pages"
+msgstr "ロックされたページに関する設定"
+
+#: includes/language.define.php:55
+msgid "Page settings"
+msgstr "ページ"
+
+#: includes/language.define.php:52
+msgid "Selecting \"yes\" allows users to comment on locked posts"
+msgstr "\"はい\" にすると、ロックされた投稿にもコメントできます。"
+
+#: includes/language.define.php:51
+msgid "Allow post comments"
+msgstr "コメントの投稿を許可する"
+
+#: includes/language.define.php:49
+msgid "Hide post comments"
+msgstr "投稿のコメントを隠す"
+
+#: includes/language.define.php:48
+msgid "Displayed text as post comment text if user has no access"
+msgstr "アクセス権がないユーザーに、投稿のコメントとしてこの文を表示します。"
+
+#: includes/language.define.php:47
+msgid "Post comment text"
+msgstr "投稿のコメント文"
+
+#: includes/language.define.php:46
+msgid "Selecting \"Yes\" will hide posts if the user has no access."
+msgstr "\"はい\" にすると、アクセス権のないユーザーには投稿が非表示になります。"
+
+#: includes/language.define.php:45
+msgid "Hide complete posts"
+msgstr "投稿を完全に隠す"
+
+#: includes/language.define.php:44
+msgid "Shows the post content before the &lt;!--more--&gt; tag and after that the defined text at \"%s\". If no &lt;!--more--&gt; is set he defined text at \"%s\" will shown."
+msgstr "&lt;!--more--&gt; タグより前の部分が表示され、その後に \"%s\" で設定した文が表示されます。&lt;!--more--&gt; がない場合、 \"%s\" で設定した文が表示されます。"
+
+#: includes/language.define.php:43
+msgid "Show post content before &lt;!--more--&gt; tag"
+msgstr "&lt;!--more--&gt; タグの前まで表示"
+
+#: includes/language.define.php:42
+msgid "Content displayed if user has no access. You can add an login-form by adding the keyword <strong>[LOGIN_FORM]</strong>. This form will shown on single posts, otherwise a link will shown."
+msgstr "アクセス権がないユーザーにはこの文が表示されます。<strong>[LOGIN_FORM]</strong> というタグを挿入することで、ログインフォームを表示させることができます。シングル投稿ではフォームとして表示されますが、それ以外ではリンクが表示されます。"
+
+#: includes/language.define.php:41
+msgid "Post content"
+msgstr "投稿の内容"
+
+#: includes/language.define.php:40 includes/language.define.php:50
+#: includes/language.define.php:60 includes/language.define.php:68
+msgid "Selecting \"Yes\" will show the text which is defined at \"%s\" if user has no access."
+msgstr "\"はい\" を選択すると、アクセス権のないユーザーに \"%s\" で設定した文が表示されます。"
+
+#: includes/language.define.php:39
+msgid "Hide post title"
+msgstr "投稿のタイトルを隠す"
+
+#: includes/language.define.php:38
+msgid "Displayed text as post title if user has no access"
+msgstr "アクセス権がないユーザーに、投稿のタイトルとしてこの文を表示します。"
+
+#: includes/language.define.php:37
+msgid "Post title"
+msgstr "投稿のタイトル"
+
+#: includes/language.define.php:36
+msgid "Set up the behaviour of locked posts"
+msgstr "ロックされた投稿に関する設定"
+
+#: includes/language.define.php:35
+msgid "Post settings"
+msgstr "投稿設定"
+
+#: includes/language.define.php:32
+msgid "Settings"
+msgstr "設定"
+
+#: includes/language.define.php:28
+msgid "No"
+msgstr "いいえ"
+
+#: includes/language.define.php:27
+msgid "Yes"
+msgstr "はい"
+
+#: includes/language.define.php:26
+msgid "only group users"
+msgstr "グループのユーザーのみ"
+
+#: includes/language.define.php:25
+msgid "all"
+msgstr "すべて"
+
+#: includes/language.define.php:22
+msgid "You setup fopen as download type for file at the User Access Manager settings, but for this option safe_mode=off is required. Please change the settings."
+msgstr "User Access Manager の設定で、ダウンロードの種類を fopen に設定していますが、それには safe_mode=off の設定を必要としています。どちらかの設定を変更してください。"
+
+#: includes/language.define.php:21
+msgid "Please update the database of the User Access Manager. <a href=\"%s\">Click here to proceed</a>"
+msgstr "User Access Manager のデーターベースをアップデートしてください。 <a href=\"%s\">こちら</a> からアップデートできます。"
+
+#: includes/language.define.php:20
+msgid "Sorry you need at least Wordpress version 3.0 to use the User Access Manager. Your current Wordpress version is %s."
+msgstr "User Access Manager を利用するには、Wordpress のバージョンが 3.0 以上である必要があります。現在のバージョンは %s です。"
+
+#: includes/language.define.php:19
+msgid "Sorry you need at least PHP version 5.0 to use the User Access Manager. Your current PHP version is %s."
+msgstr "User Access Manager を利用するには、PHP のバージョンが 5.0 以上である必要があります。現在のバージョンは %s です。"
+
+#: class/UserAccessManager.class.php:1245
+msgid "uam user groups"
+msgstr "UAM ユーザーグループ"
+
+#: class/UserAccessManager.class.php:1105
+#: class/UserAccessManager.class.php:1324
+msgid "Access"
+msgstr "アクセス"
+
+#: class/UserAccessManager.class.php:776
+msgid "Sorry you have no rights to view this page!"
+msgstr "この投稿を表示する権限がありません。"
+
+#: class/UserAccessManager.class.php:769 class/UserAccessManager.class.php:782
+msgid "Sorry no rights to view comments!"
+msgstr "このコメントを表示する権限がありません。"
+
+#: class/UserAccessManager.class.php:763
+msgid "Sorry you have no rights to view this post!"
+msgstr "この投稿を表示する権限がありません。"
+
+#: class/UserAccessManager.class.php:762 class/UserAccessManager.class.php:775
+msgid "No rights!"
+msgstr "アクセス権がありません。"

@@ -1,0 +1,657 @@
+# Translation of Stable (latest release) in Italian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-06-21 12:29:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: includes/language.define.php:165
+msgid "Updates the database of the User Access Manager. Please backup your database before you perform the update."
+msgstr "Aggiorna il database di User Access Manager. Eseguire il backup del database prima dell'aggiornamento."
+
+#: includes/language.define.php:166
+msgid "update"
+msgstr "aggiorna"
+
+#: includes/language.define.php:167
+msgid "User Access Manager was reset successfully"
+msgstr "User Access Manager è stato ripristinato con successo"
+
+#: includes/language.define.php:168
+msgid "User Access Manager database was updated successfully"
+msgstr "Il database di User Access Manager è stato aggiornato con successo"
+
+#: includes/language.define.php:169
+msgid "Update current blog"
+msgstr "Aggiornare il blog corrente"
+
+#: includes/language.define.php:174
+msgid "About"
+msgstr "Circa"
+
+#: includes/language.define.php:177
+msgid "How to support me?"
+msgstr "Come sostenermi?"
+
+#: includes/language.define.php:178
+msgid "<strong>Send me bug reports, bug fixes, code modifications or your ideas.</strong><br/>Help me to improve the plugin."
+msgstr "<strong>Inviami segnalazioni e correzioni di bug, modifiche di codice o le vostre idee.</strong><br/>Aiutatemi a migliorare il plugin."
+
+#: includes/language.define.php:179
+msgid "<strong>Make a translation of the plugin.</strong><br/>The give other users more comfort help me to translate it to all languages."
+msgstr "<strong>Fai una traduzione del plugin.</strong><br/>Per facilitare l'utilizzo di altri utenti aiutami a tradurlo in tutte le lingue."
+
+#: includes/language.define.php:180
+msgid "<strong>Donate via paypal</strong>"
+msgstr "<strong>Fai una donazione con paypal</strong>"
+
+#: includes/language.define.php:181
+msgid "<strong>Place a link to the plugin in your blog/webpage.</strong>"
+msgstr "<strong>Inserisci un link al plugin nel tuo blog/pagina web.</strong>"
+
+#: includes/language.define.php:184
+msgid "Thanks"
+msgstr "Grazie"
+
+#: includes/language.define.php:185
+msgid "Special thanks go out to my wife for giving me the time to develop this plugin."
+msgstr "Ringraziamenti speciali vanno a mia moglie per avermi dato il tempo di sviluppare questo plugin."
+
+#: includes/language.define.php:186
+msgid "I would like to thank all the guys which has helped me with this plugin:"
+msgstr "Vorrei ringraziare tutti coloro che mi hanno aiutato con questo plugin."
+
+#: includes/language.define.php:187
+msgid "all beta testers and all others I forgot"
+msgstr "tutti i beta tester e tutti quelli che ho scordato."
+
+#: includes/language.define.php:191
+msgid "Full access"
+msgstr "Accesso libero"
+
+#: includes/language.define.php:192
+msgid "Member of other user groups"
+msgstr "Membro di altri gruppi di utenti"
+
+#: includes/language.define.php:193
+msgid "<strong>Note:</strong> An administrator has always access to all posts/pages."
+msgstr "<strong>Nota:</strong> Un amministratore ha sempre accesso a tutti i post/pagine."
+
+#: includes/language.define.php:194
+msgid "Please create a user group first."
+msgstr "Si prega di creare prima un Gruppo di Utenti"
+
+#: includes/language.define.php:195
+msgid "No user group available."
+msgstr "Nessun gruppo utenti disponibile."
+
+#: includes/language.define.php:196
+msgid "You have no rights to access this content."
+msgstr "Non hai i permessi necessari per accedere a questo contenuto."
+
+#: includes/language.define.php:197
+msgid "User Groups"
+msgstr "Gruppi utenti"
+
+#: includes/language.define.php:198
+msgid "Set up user groups"
+msgstr "Imposta i Gruppi di Utenti"
+
+#: includes/language.define.php:199
+msgid "Sorry, your nonce did not verify."
+msgstr "Spiacenti, codice temporaneo (nonce) non verificato."
+
+#: includes/language.define.php:202
+msgid "Info"
+msgstr "Informazioni"
+
+#: includes/language.define.php:203
+msgid "Group info"
+msgstr "Informazioni sul gruppo"
+
+#: includes/language.define.php:204
+msgid "Group membership given by posts"
+msgstr "Appartenenza al gruppo data dai post"
+
+#: includes/language.define.php:205
+msgid "Group membership given by pages"
+msgstr "Appartenenza al gruppo data dalle pagine"
+
+#: includes/language.define.php:206
+msgid "Group membership given by categories"
+msgstr "Appartenenza al gruppo data dalle categorie"
+
+#: includes/language.define.php:207
+msgid "Group membership given by role"
+msgstr "Appartenenza al gruppo data dal ruolo"
+
+#: includes/language.define.php:208
+msgid "Assigned groups"
+msgstr "Gruppi assegnati"
+
+#: includes/language.define.php:212
+msgid "Opening file info database failed."
+msgstr "Apertura del database di informazioni file non riuscita."
+
+#: includes/language.define.php:213
+msgid "Error: File not found."
+msgstr "Errore: File non trovato."
+
+#: tpl/loginBar.php:23 tpl/loginBar.php:40
+msgid "Login"
+msgstr "Accesso"
+
+#: tpl/loginBar.php:34
+msgid "Username:"
+msgstr "Nome Utente:"
+
+#: tpl/loginBar.php:36
+msgid "Password:"
+msgstr "Password:"
+
+#: tpl/loginBar.php:39
+msgid "Remember me"
+msgstr "Ricorda le mie credenziali"
+
+#: tpl/loginBar.php:46
+msgid "Register"
+msgstr "Registrati"
+
+#: tpl/loginBar.php:49
+msgid "Password Lost and Found"
+msgstr "Pasword Persa e Trovata"
+
+#: tpl/loginBar.php:49
+msgid "Lost your password?"
+msgstr "Hai dimenticato la password?"
+
+#. Description of the plugin/theme
+msgid "Manage the access to your posts, pages, categories and files."
+msgstr "Gestisci l'accesso ai tuou post, pagine, categorie e file."
+
+#: class/UserAccessManager.class.php:762 class/UserAccessManager.class.php:775
+msgid "No rights!"
+msgstr "Non hai l'autorizzazione."
+
+#: class/UserAccessManager.class.php:763
+msgid "Sorry you have no rights to view this post!"
+msgstr "Mi dispiace non hai l'autorizzazione per vedere questo post"
+
+#: class/UserAccessManager.class.php:769 class/UserAccessManager.class.php:782
+msgid "Sorry no rights to view comments!"
+msgstr "Mi dispiace non hai l'autorizzazione per vedere i commenti!"
+
+#: class/UserAccessManager.class.php:776
+msgid "Sorry you have no rights to view this page!"
+msgstr "Mi dispiace non hai l autorizzazione per vedere questa pagina!"
+
+#: class/UserAccessManager.class.php:1105
+#: class/UserAccessManager.class.php:1324
+msgid "Access"
+msgstr "Autorizzazione"
+
+#: class/UserAccessManager.class.php:1245
+msgid "uam user groups"
+msgstr "Gruppi Utenti UAM"
+
+#: includes/language.define.php:19
+msgid "Sorry you need at least PHP version 5.0 to use the User Access Manager. Your current PHP version is %s."
+msgstr "Spiacenti, per utilizzare User Acess Manager è necessario PHP 5.0 o superiore, la tua versione attuale è PHP %s."
+
+#: includes/language.define.php:20
+msgid "Sorry you need at least Wordpress version 3.0 to use the User Access Manager. Your current Wordpress version is %s."
+msgstr "Spiacenti, per utilizzare User Acess Manager è necessario PHP 3.0 o superiore, la tua versione attuale è PHP %s."
+
+#: includes/language.define.php:21
+msgid "Please update the database of the User Access Manager. <a href=\"%s\">Click here to proceed</a>"
+msgstr "Si prega di aggiornare il database di User Access Manager. <a href=\"%s\">Clicca qui per procedere</a>"
+
+#: includes/language.define.php:22
+msgid "You setup fopen as download type for file at the User Access Manager settings, but for this option safe_mode=off is required. Please change the settings."
+msgstr "Hai impostato FOPEN come tipologia di download per i tuoi file nelle impostazioni di User Access Manager, ma per questa opzione è necessario impostare l'opzione safe_mode a off. Si prega di modificare l'impostazine."
+
+#: includes/language.define.php:25
+msgid "all"
+msgstr "Tutto"
+
+#: includes/language.define.php:26
+msgid "only group users"
+msgstr "Solamente gli utenti del gruppo"
+
+#: includes/language.define.php:27
+msgid "Yes"
+msgstr "Si"
+
+#: includes/language.define.php:28
+msgid "No"
+msgstr "No"
+
+#: includes/language.define.php:32
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/language.define.php:35
+msgid "Post settings"
+msgstr "Impostazione  articoli"
+
+#: includes/language.define.php:36
+msgid "Set up the behaviour of locked posts"
+msgstr "Imposta le azioni per gli articoli bloccati"
+
+#: includes/language.define.php:37
+msgid "Post title"
+msgstr "Titolo dell'articolo"
+
+#: includes/language.define.php:38
+msgid "Displayed text as post title if user has no access"
+msgstr "Testo mostrato come titolo dell'articolo se l'utente non ha accesso"
+
+#: includes/language.define.php:39
+msgid "Hide post title"
+msgstr "Nascondi il titolo del post"
+
+#: includes/language.define.php:40 includes/language.define.php:50
+#: includes/language.define.php:60 includes/language.define.php:68
+msgid "Selecting \"Yes\" will show the text which is defined at \"%s\" if user has no access."
+msgstr "Selezionando \"si \" verrà mostrato il testodefinito come \"% s \" se  l'utente non ha accesso."
+
+#: includes/language.define.php:41
+msgid "Post content"
+msgstr "Contenuto dell'articolo"
+
+#: includes/language.define.php:42
+msgid "Content displayed if user has no access. You can add an login-form by adding the keyword <strong>[LOGIN_FORM]</strong>. This form will shown on single posts, otherwise a link will shown."
+msgstr "Contenuto visualizzato quando l'utente non ha accesso. Puoi aggiungere una form di login aggiungendo la parolachiave <strong>[LOGIN_FORM]</strong>. Questo form verrà visualizzato sui post singoli, altrimenti verrà visualizzato un link."
+
+#: includes/language.define.php:43
+msgid "Show post content before &lt;!--more--&gt; tag"
+msgstr "Mostra il contenuto del post prima del tag &lt;!--more--&gt;"
+
+#: includes/language.define.php:44
+msgid "Shows the post content before the &lt;!--more--&gt; tag and after that the defined text at \"%s\". If no &lt;!--more--&gt; is set he defined text at \"%s\" will shown."
+msgstr "Mostra il contenuto del prost prima del tag &lt;!--more--&gt; e dopo il testo definito in \"%s\". Se non è stato impostato alcun tag &lt;!--more--&gt;  verrà mostrato il testo definito in \"%s\" ."
+
+#: includes/language.define.php:45
+msgid "Hide complete posts"
+msgstr "Nascondi completamente l'articolo"
+
+#: includes/language.define.php:46
+msgid "Selecting \"Yes\" will hide posts if the user has no access."
+msgstr "Selezionando \"si \" l articolo verrà nascosto se l utente non ha accesso."
+
+#: includes/language.define.php:47
+msgid "Post comment text"
+msgstr "Invia un commento"
+
+#: includes/language.define.php:48
+msgid "Displayed text as post comment text if user has no access"
+msgstr "Testo mostrato nell'articolo se l'utente non ha accesso"
+
+#: includes/language.define.php:49
+msgid "Hide post comments"
+msgstr "Nascondi i commenti sull'articolo"
+
+#: includes/language.define.php:51
+msgid "Allow post comments"
+msgstr "Autorizza Commenti Post"
+
+#: includes/language.define.php:52
+msgid "Selecting \"yes\" allows users to comment on locked posts"
+msgstr "Selezionando \"si \" permetterai agli utenti di commentare articoli bloccati."
+
+#: includes/language.define.php:55
+msgid "Page settings"
+msgstr "Impostazioni della pagina"
+
+#: includes/language.define.php:56
+msgid "Set up the behaviour of locked pages"
+msgstr "Imposta le azioni per le pagine bloccate"
+
+#: includes/language.define.php:57
+msgid "Page title"
+msgstr "Titolo della pagina"
+
+#: includes/language.define.php:58
+msgid "Displayed text as page title if user has no access"
+msgstr "Testo mostrato come titolo della pagina se l'utente non ha accesso"
+
+#: includes/language.define.php:59
+msgid "Hide page title"
+msgstr "Nascondi il titolo della pagina"
+
+#: includes/language.define.php:61
+msgid "Page content"
+msgstr "Contenuto della pagina"
+
+#: includes/language.define.php:62
+msgid "Content displayed if user has no access. You can add an login-form by adding the keyword <strong>[LOGIN_FORM]</strong>. This form will shown on single pages, otherwise a link will shown."
+msgstr "Contenuto visualizzato se l'utente non ha accesso. Puoi aggiungere una form di login inserendo la kuyword <strong>[LOGIN_FORM]</strong>. Questa form verrà visualizzata nelle pagine singole, altrimenti verrà visualizzato un link."
+
+#: includes/language.define.php:63
+msgid "Hide complete pages"
+msgstr "Nascondi completamente la pagina"
+
+#: includes/language.define.php:64
+msgid "Selecting \"Yes\" will hide pages if the user has no access. Pages will also hide in the navigation."
+msgstr "Selezionando \"si \" la pagina verrà nascosta se l'utente non ha accesso. Le pagine verranno nascoste anche nel menù"
+
+#: includes/language.define.php:65
+msgid "Page comment text"
+msgstr "Testo di commento"
+
+#: includes/language.define.php:66
+msgid "Displayed text as page comment text if user has no access"
+msgstr "Testo visualizzato come commento della pagina se l'utente non ha accesso."
+
+#: includes/language.define.php:67
+msgid "Hide page comments"
+msgstr "Nascondi i commenti della pagina"
+
+#: includes/language.define.php:69
+msgid "Allow page comments"
+msgstr "Consenti commenti pagina"
+
+#: includes/language.define.php:70
+msgid "Selecting \"yes\" allows users to comment on locked pages"
+msgstr "Selezionando \"Si\" autorizzi gli utenti a commentare le pagine bloccate"
+
+#: includes/language.define.php:73
+msgid "File settings"
+msgstr "Impostazioni dei file"
+
+#: includes/language.define.php:74
+msgid "Set up the behaviour of files"
+msgstr "Imposta le azioni per i file"
+
+#: includes/language.define.php:75
+msgid "Lock files"
+msgstr "Blocca i file"
+
+#: includes/language.define.php:77
+msgid "File types to lock: "
+msgstr "Tipi di file da bloccare:"
+
+#: includes/language.define.php:78
+msgid "File types not to lock: "
+msgstr "Tipi di file da NON bloccare:"
+
+#: includes/language.define.php:79
+msgid "Locked file types"
+msgstr "Tipo di file bloccati"
+
+#: includes/language.define.php:81
+msgid ".htaccess password"
+msgstr ".htaccess password"
+
+#: includes/language.define.php:82
+msgid "Set up the password for the .htaccess access. This password is only needed if you need a direct access to your files."
+msgstr "Imposta la password per l'accesso tramite .htaccess. Questa password è richiesta solamente se hai bisogno di un accesso diretto ai file"
+
+#: includes/language.define.php:83
+msgid "Use a random generated pass word."
+msgstr "Usa un generatore di password random"
+
+#: includes/language.define.php:84
+msgid "Use the password of the current logged in admin."
+msgstr "Utilizza la stessa password  dell'amministratore"
+
+#: includes/language.define.php:85
+msgid "Download type"
+msgstr "Tipo di download"
+
+#: includes/language.define.php:86
+msgid "Selecting the type for downloading. <strong>Note:</strong> For using fopen you need \"safe_mode = off\"."
+msgstr "Selezionare il tipo di download. <strong> Nota: </ strong> Se vuoi usare fopen devi impostare  \"safe_mode = off\"."
+
+#: includes/language.define.php:87
+msgid "Normal"
+msgstr "Normale"
+
+#: includes/language.define.php:88
+msgid "fopen"
+msgstr "fopen"
+
+#: includes/language.define.php:91
+msgid "Authors settings"
+msgstr "Impostazioni autori"
+
+#: includes/language.define.php:92
+msgid "Here you will find the settings for authors"
+msgstr "Qui troverai le impostazioni per gli autori"
+
+#: includes/language.define.php:93
+msgid "Authors always has access to own posts/pages"
+msgstr "Gli autori hanno sempre accesso ai proprio post/pagine"
+
+#: includes/language.define.php:94
+msgid "If \"Yes\" is selected author will always have full access to their own posts or pages."
+msgstr "Se \"sì\" è selezionato gli autori avranno sempre accesso ai proprio post/pagine."
+
+#: includes/language.define.php:95
+msgid "Authors can add content to their own groups"
+msgstr "Gli autori possono aggiungere contenuti ai proprio gruppi"
+
+#: includes/language.define.php:96
+msgid "If \"Yes\" is selected author are able to restrict the content by adding it to their groups."
+msgstr "Se \"sì\" è selezionato gli autori potrenno limitare il contenuto aggiongendolo ai propri gruppi."
+
+#: includes/language.define.php:97
+msgid "Minimum user role with full access"
+msgstr "Ruolo utente minimo con accesso completo"
+
+#: includes/language.define.php:98
+msgid "All user with a role equal or higher to this has full access."
+msgstr "Tutti gli utenti con un ruolo uguale o superiore al presente hanno accesso completo."
+
+#: includes/language.define.php:99
+msgid "Administrator"
+msgstr "Amministratore"
+
+#: includes/language.define.php:100
+msgid "Editor"
+msgstr "Editore"
+
+#: includes/language.define.php:101
+msgid "Author"
+msgstr "Autore"
+
+#: includes/language.define.php:102
+msgid "Contributor"
+msgstr "Collaboratore"
+
+#: includes/language.define.php:103
+msgid "Subscriber"
+msgstr "Sottoscrittore"
+
+#: includes/language.define.php:106
+msgid "Other settings"
+msgstr "Altre impostazioni"
+
+#: includes/language.define.php:107
+msgid "Here you will find all other settings"
+msgstr "Quì toverai tutte le altre impostazioni"
+
+#: includes/language.define.php:108
+msgid "Protect Feed"
+msgstr "Proteggere Feed"
+
+#: includes/language.define.php:109
+msgid "Selecting \"Yes\" will also protect your feed entries."
+msgstr "Selezionando \"Sì\" proteggerai anche le voci feed"
+
+#: includes/language.define.php:110
+msgid "Hide empty categories"
+msgstr "Nascondi categorie vuote"
+
+#: includes/language.define.php:111
+msgid "Selecting \"Yes\" will hide empty categories which are containing only empty childes or no childes."
+msgstr "Selezionando \"Sì\" verranno nascoste le categorie vuote che contengono categorie figlie vuote o nessuna categoria."
+
+#: includes/language.define.php:112
+msgid "Redirect user"
+msgstr "Redirect dell'utente"
+
+#: includes/language.define.php:113
+msgid "Setup what happen if a user visit a post/page with no access."
+msgstr "Imposta le azioni se un utente visita un articolo/pagina senza permesso di accesso"
+
+#: includes/language.define.php:114
+msgid "To blog startpage"
+msgstr "Ritorna alla pagina di inizio"
+
+#: includes/language.define.php:115
+msgid "Custom page: "
+msgstr "Scegli la pagina"
+
+#: includes/language.define.php:116
+msgid "Custom URL: "
+msgstr "Scegli l'URL"
+
+#: includes/language.define.php:117
+msgid "Lock recursive"
+msgstr "Bloccaggio permanente"
+
+#: includes/language.define.php:118
+msgid "Selecting \"Yes\" will lock all child posts/pages of a post/page if a user has no access to the parent page. Note: Setting this option to \"No\" could result in display errors relating to the hierarchy."
+msgstr "Selezionando \"Si \" bloccherai tutti gli articoli/pagine associati ad un'altra pagina/articolo a cui l'utente non ha accesso.<b>Nota:</b> Selezionando \"No \" potrebbe risultare un'errore relativo alla gerarchia delle pagine/articoli."
+
+#: includes/language.define.php:119
+msgid "Admin hint text"
+msgstr "Testo suggerito dall'amministratore"
+
+#: includes/language.define.php:120
+msgid "The text which will shown behind the post/page."
+msgstr "Testo che verrà mostrato dietro il post/pagina"
+
+#: includes/language.define.php:121
+msgid "Show admin hint at Posts"
+msgstr "Mostra il suggerimento dell'amministratore negli articoli"
+
+#: includes/language.define.php:122
+msgid "Selecting \"Yes\" will show the defined text at \"%s\" behind the post/page to an logged in admin to show him which posts/pages are locked if he visits his blog."
+msgstr "Selezionado \"Sì\" mostrerai, ad un amministratore loggato, il testo definito in \"%s\" dietro il post/pagina per mostrargli quali post/pagine sono bloccate."
+
+#: includes/language.define.php:125
+msgid "Update settings"
+msgstr "Aggiorna impostazioni"
+
+#: includes/language.define.php:126
+msgid "Settings updated."
+msgstr "Impostazioni aggiornate"
+
+#: includes/language.define.php:130
+msgid "Manage user user groups"
+msgstr "Gestisci gli utenti nei gruppi utenti"
+
+#: includes/language.define.php:131
+msgid "Role affiliation"
+msgstr "Ruolo di appartenenza"
+
+#: includes/language.define.php:132
+msgid "Name"
+msgstr "Nome"
+
+#: includes/language.define.php:133
+msgid "Description"
+msgstr "Descrizione"
+
+#: includes/language.define.php:134 includes/language.define.php:147
+msgid "Read access"
+msgstr "Autorizza lettura"
+
+#: includes/language.define.php:135 includes/language.define.php:149
+msgid "Write access"
+msgstr "Autorizza scrittura"
+
+#: includes/language.define.php:136
+msgid "Delete"
+msgstr "Cancella"
+
+#: includes/language.define.php:137
+msgid "Update group"
+msgstr "Aggiorna gruppo"
+
+#: includes/language.define.php:138
+msgid "Add"
+msgstr "Aggiungi"
+
+#: includes/language.define.php:139
+msgid "Add user group"
+msgstr "Aggiungi gruppo utenti"
+
+#: includes/language.define.php:140
+msgid "Edit user group"
+msgstr "Modifica gruppo utenti"
+
+#: includes/language.define.php:141
+msgid "User group name"
+msgstr "Nome del Gruppo"
+
+#: includes/language.define.php:142
+msgid "The name is used to identify the access user group."
+msgstr "Questo nome è usato per identificare gli utenti del gruppo"
+
+#: includes/language.define.php:144
+msgid "The description of the group."
+msgstr "Descrizione del gruppo"
+
+#: includes/language.define.php:145 includes/language.define.php:156
+msgid "IP range"
+msgstr "Gamma degli indirizzi IP"
+
+#: includes/language.define.php:146
+msgid "Type in the IP ranges of users which are join these groups by their IP address without login. Set ranges like \"BEGIN\"-\"END\", separate ranges by using \";\", single IPs are also allowed. Example: 192.168.0.1-192.168.0.10;192.168.0.20-192.168.0.30"
+msgstr "Inrerire l'intervallo di indirizzi IP per gli utenti che si uniscono a questo gruppo tramite il loro indirizzo IP senza loggarsi. Impostare l'intervallo cone \"INIZIO\"-\"FINE\",  separate gli intervalli utilizzando \";\", sono ammessi anche indirizzi IP singoli. Esempio: 192.168.0.1-192.168.0.10;192.168.0.20-192.168.0.30"
+
+#: includes/language.define.php:148
+msgid "The read access."
+msgstr "Accesso alla lettura"
+
+#: includes/language.define.php:150
+msgid "The write access."
+msgstr "Accesso alla scrittura"
+
+#: includes/language.define.php:151
+msgid "Group was added successfully."
+msgstr "Il gruppo è stato aggiunto correttamente"
+
+#: includes/language.define.php:152
+msgid "Group name can not be empty."
+msgstr "Il nome del gruppo non può essere vuoto"
+
+#: includes/language.define.php:153
+msgid "Group(s) was deleted successfully."
+msgstr "Il/i  gruppo/i è stato cancellato correttamente."
+
+#: includes/language.define.php:154
+msgid "none"
+msgstr "Nessuno"
+
+#: includes/language.define.php:155
+msgid "User group edit successfully."
+msgstr "Il gruppo è stato modificato correttamente."
+
+#: includes/language.define.php:160
+msgid "Setup"
+msgstr "Configurazione"
+
+#: includes/language.define.php:161
+msgid "Reset User Access Manager"
+msgstr "Reset User Access Manager"
+
+#: includes/language.define.php:162
+msgid "Warning: The reset of the User Access Manager can not be undone. All settings and user groups will permanently lost."
+msgstr "Attenzione: il reset di User Access Manager non può essere annullato. Tutte le impostazioni e i gruppi verrano definitivamente persi."
+
+#: includes/language.define.php:163
+msgid "reset"
+msgstr "reimposta"
+
+#: includes/language.define.php:164
+msgid "Update User Access Manager database"
+msgstr "Aggiorna il database di User Access Manager"

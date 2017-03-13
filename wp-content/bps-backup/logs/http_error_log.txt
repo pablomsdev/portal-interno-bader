@@ -1,0 +1,147 @@
+BPS SECURITY LOG
+=================
+=================
+
+[403 GET / HEAD Request: September 16, 2014 7:58 am]
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 85.214.110.20
+Host Name: h2116268.stratoserver.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wordpress/wp-content/uploads/2013/02/icono-bader.ico
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.0; http://bader.h2116268.stratoserver.net/wordpress
+
+[403 GET / HEAD Request: September 25, 2014 3:13 pm]
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 85.214.110.20
+Host Name: h2116268.stratoserver.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wordpress/wp-content/uploads/2013/02/icono-bader.ico
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.0; http://bader.h2116268.stratoserver.net/wordpress
+
+[403 GET / HEAD Request: September 25, 2014 3:13 pm]
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 85.214.110.20
+Host Name: h2116268.stratoserver.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wordpress/wp-content/uploads/2013/01/equipo.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.0; http://bader.h2116268.stratoserver.net/wordpress
+
+[403 GET / HEAD Request: September 25, 2014 3:13 pm]
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 85.214.110.20
+Host Name: h2116268.stratoserver.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wordpress/wp-content/uploads/2013/01/equipo-300x256.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.0; http://bader.h2116268.stratoserver.net/wordpress
+
+[403 GET / HEAD Request: September 25, 2014 3:14 pm]
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 85.214.110.20
+Host Name: h2116268.stratoserver.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wordpress/wp-content/uploads/2013/02/icono-bader.ico
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.0; http://bader.h2116268.stratoserver.net/wordpress
+
+[403 GET / HEAD Request: September 25, 2014 3:14 pm]
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 85.214.110.20
+Host Name: h2116268.stratoserver.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wordpress/wp-content/uploads/2013/01/equipo.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.0; http://bader.h2116268.stratoserver.net/wordpress
+
+[403 GET / HEAD Request: September 25, 2014 3:14 pm]
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 85.214.110.20
+Host Name: h2116268.stratoserver.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wordpress/wp-content/uploads/2013/01/equipo-300x256.jpg
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.0; http://bader.h2116268.stratoserver.net/wordpress
+
+[403 GET / HEAD Request: September 25, 2014 3:16 pm]
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 85.214.110.20
+Host Name: h2116268.stratoserver.net
+SERVER_PROTOCOL: HTTP/1.0
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wordpress/wp-content/uploads/2013/02/icono-bader.ico
+QUERY_STRING: 
+HTTP_USER_AGENT: WordPress/4.0; http://bader.h2116268.stratoserver.net/wordpress
+
+[403 GET / HEAD Request: November 3, 2014 5:41 pm]
+Event Code: BFHS - Blocked/Forbidden Hacker or Spammer
+Solution: N/A - Hacker/Spammer Blocked/Forbidden
+REMOTE_ADDR: 171.212.225.226
+Host Name: 171.212.225.226
+SERVER_PROTOCOL: HTTP/1.1
+HTTP_CLIENT_IP: 
+HTTP_FORWARDED: 
+HTTP_X_FORWARDED_FOR: 
+HTTP_X_CLUSTER_CLIENT_IP: 
+REQUEST_METHOD: GET
+HTTP_REFERER: 
+REQUEST_URI: /wordpress/?p=1%20%5BPLM=0%5D%20GET%20http://bader.h2116268.stratoserver.net/wordpress/?p=1%20%5B0,9823,9261%5D%20-%3E%20%5BN%5D%20POST%20http://bader.h2116268.stratoserver.net/wordpress/wp-comments-post.php%20%5BR=302%5D%5B0,0,820%5D
+QUERY_STRING: 
+HTTP_USER_AGENT: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; TencentTraveler ; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; .NET CLR 2.0.50727)
